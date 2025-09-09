@@ -9,6 +9,7 @@ export default function App() {
       <View style={mascara.cx1}></View>
       <View style={mascara.titulo}>SUZANO</View>
        <View style={mascara.cx2}></View>
+       <Text>Usando o GItHub Desktop na aula do prof Anselmo</Text>
     </SafeAreaView>
   );
 }
